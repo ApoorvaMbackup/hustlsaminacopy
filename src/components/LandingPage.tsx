@@ -571,7 +571,7 @@ const LandingPage = () => {
               <div className="flex flex-col items-center transform transition-all duration-500 hover:scale-105 animate-fade-in animation-delay-400">
                 <div className="h-16 flex items-center justify-center mb-4 relative">
                   <img 
-                    src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" 
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" 
                     alt="Tailwind CSS" 
                     className="h-12 object-contain"
                   />
